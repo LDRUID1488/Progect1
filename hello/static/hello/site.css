@@ -1,0 +1,16 @@
+input[name=message] {
+    width: 80%;
+}
+.message_list th,td {
+    text-align: left;
+    padding-right: 15px;
+}
+.app{
+    background-image: url('../img/BC_col.png');
+    color: white;
+    text-align: center;
+    padding: 80px 0 162px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
